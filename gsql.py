@@ -151,11 +151,3 @@ root.title("COVID19 duombazė")
 root.iconbitmap(r'1.ico')
 
 root.mainloop()
-
-# def main():
-#     root = tk.Tk()
-#     # app = grazinti_db()
-#     root.mainloop()
-#
-# if __name__ == "__main__":
-#     main()
