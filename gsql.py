@@ -28,7 +28,6 @@ def grazinti_db():
 
 
 def ikelti(event):  # 2 click get data
-#    rowid = trv.identify_row(event.y) #  row ID will return
     item = tr_view.item(tr_view.focus())
     t1.set(item['values'][0])
     t2.set(item['values'][1])
